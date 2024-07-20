@@ -1,1 +1,1 @@
-Setting up repository for project
+Setting up repository for database project using Git
